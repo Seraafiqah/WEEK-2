@@ -1,0 +1,16 @@
+package javaBeginners;
+
+public class campusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("wake up at 7:00a.m to get ready");
+System.out.println("get ready for the first class at 8:20a.m");
+System.out.println("10:30a.m ready for programming class for 2 hours");
+System.out.println("take a break for 2 hours for pray and lunch");
+System.out.println("stanby for next class at 2:30p.m");
+System.out.println("continue for the next class at 4:00p.m until 5:30p.m");
+System.out.println("finish all the classes at 5:30p.m");
+System.out.println("dinner with family and get some me time");
+System.out.println("do some programming exercise that be given and self learning");
+System.out.println("get ready to bed at 10:00p.m-11:00p.m");
